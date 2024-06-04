@@ -1,9 +1,9 @@
 ### About Me 👋
 
 
-🔭 I’m currently pursuing Btech ECE at MNNIT Allahabad.
+🔭 I’m currently pursuing Btech ECE at NIT Allahabad.
 <br>
- 🌱 I’m currently learning Webdev, trying some CP.
+ 🌱 I’m currently learning Android Development, trying some CP.
  <br>
  👯 I’m looking forward to contribute to some open source projects.
  <br>
@@ -11,4 +11,4 @@
  <br>
  📫 How to reach me: Telegram @nimbusprime
  <br>
- ⚡ I wonder why are you here? XD
+ ⚡ Thanks for visiting.
